@@ -11,7 +11,7 @@
  *  rooms, creates the parser and starts the game.  It also evaluates and
  *  executes the commands that the parser returns.
  * 
- * @author  Kristen Oringer
+ * @author  Kristen Oringer and Jaime
  * @version 3.30.2015
  */
 
